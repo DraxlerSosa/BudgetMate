@@ -1,0 +1,8 @@
+com.budgetmate.app-pngs-0 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\generated\res\pngs\debug
+com.budgetmate.app-resValues-1 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\generated\res\resValues\debug
+com.budgetmate.app-updated_navigation_xml-2 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\generated\updated_navigation_xml\debug
+com.budgetmate.app-packageDebugResources-3 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.budgetmate.app-packageDebugResources-4 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.budgetmate.app-debug-5 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.budgetmate.app-debug-6 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\src\debug\res
+com.budgetmate.app-main-7 C:\Users\kgoth\Desktop\BudgetMate_Fixed\BudgetMate_Fixed\app\src\main\res
