@@ -199,19 +199,10 @@ This ensures that the application can be successfully built on environments othe
 # 📸 Screenshots
 
 ## Dashboard
-(Add Screenshot Here)
-
 ## Expense Tracking
-(Add Screenshot Here)
-
 ## Budget Goals
-(Add Screenshot Here)
-
 ## Reports and Graphs
-(Add Screenshot Here)
-
 ## Gamification
-(Add Screenshot Here)
 
 ---
 
